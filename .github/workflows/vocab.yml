@@ -1,0 +1,33 @@
+name: Daily Vocabulary
+
+on:
+  schedule:
+    - cron: '30 23 * * *' # 北京时间早上 7:30 左右
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  learn:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - run: pip install requests
+    
+    - name: Fetch Word
+      run: python vocabulary.py
+      
+    - name: Commit
+      run: |
+        git config --global user.email "huang@gshu.shop"
+        git config --global user.name "huc-b4"
+        
+        git add .
+        git diff --quiet && git diff --staged --quiet || (git commit -m "📘 Vocab: $(date +'%Y-%m-%d')" && git push)
