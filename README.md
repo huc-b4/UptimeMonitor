@@ -3,19 +3,20 @@
 
 每天自动抓取每日一句，积累英语词汇。
 
-### 📅 今日打卡 (2025-11-23)
+### 📅 今日打卡 (2025-11-24)
 
-![Image](https://staticedu-wps.cache.iciba.com/image/2ea438119d0090172a10bf7ae1bf89ec.png)
+![Image](https://staticedu-wps.cache.iciba.com/image/a95ba98a530288d5faadefd1552f5dcf.png)
 
-> **Don't dream your life, but live your dream.**
+> **Each day is a new page in the story of autumn.**
 > 
-> *不要梦想你的生活，而要实现你的梦想。*
+> *每一天都是秋天故事里崭新的一页。*
 
 ---
 
 ### 🗂️ 最近一周记录
 | 日期 | 英文 | 中文 |
 | :--- | :--- | :--- |
+| 2025-11-24 | Each day is a new page in the story of autumn. | 每一天都是秋天故事里崭新的一页。 |
 | 2025-11-23 | Don't dream your life, but live your dream. | 不要梦想你的生活，而要实现你的梦想。 |
 | 2025-11-22 | No snowflake ever falls in the wrong place. | 没有一片雪花会落在错误的地方。 |
 | 2025-11-21 | All are unique. | 人人皆独特。 |
