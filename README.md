@@ -3,26 +3,26 @@
 
 每天自动抓取每日一句，积累英语词汇。
 
-### 📅 今日打卡 (2025-12-14)
+### 📅 今日打卡 (2025-12-15)
 
-![Image](https://staticedu-wps-cache.iciba.com/image/1840045b7e01443a40d7b3ab7fece3f6.png)
+![Image](https://staticedu-wps-cache.iciba.com/image/ba98974be47e0050b52c9ab88b476157.png)
 
-> **May every snowfall this winter lay the groundwork for the world's whiteness.**
+> **In solitude, I encounter the complete me.**
 > 
-> *愿这个冬天的每一场雪，都是为了铺垫世界的洁白。*
+> *在孤独中，遇见完整的我。*
 
 ---
 
 ### 🗂️ 最近一周记录
 | 日期 | 英文 | 中文 |
 | :--- | :--- | :--- |
+| 2025-12-15 | In solitude, I encounter the complete me. | 在孤独中，遇见完整的我。 |
 | 2025-12-14 | May every snowfall this winter lay the groundwork for the world's whiteness. | 愿这个冬天的每一场雪，都是为了铺垫世界的洁白。 |
 | 2025-12-13 | Beyond material possessions, what matters most is a person's spirit and perspective. | 物质之外，更重要的是一个人的精神与见解。 |
 | 2025-12-12 | Every road offers its own unique scenery, and every person is a singular existence. | 每一条路都是独特的风景，每一个人都是唯一的存在。 |
 | 2025-12-11 | Even if ordinary and clumsy, not giving up is itself a shining point. | 即使平凡笨拙，不放弃本身就是闪光点。 |
 | 2025-12-10 | You don't need to chase the light—you already shine on your own. | 不必追光，你本就能发光。 |
 | 2025-12-09 | Bright windows and clean desks—that is simple joy. | 窗明几净，便是清欢。 |
-| 2025-12-08 | In the silence, grow your own roots. | 在寂静中，长出自己的根。 |
 
 
 ---
