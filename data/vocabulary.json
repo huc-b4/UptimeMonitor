@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-03-03",
+    "content": "Light a wish and let it rise.",
+    "note": "点亮一个愿望，让它升起。",
+    "translation": "新版每日一句",
+    "picture": "https://staticedu-wps-cache.iciba.com/image/5fbe6cd8156fefd06a05b82ce9f19a32.png"
+  },
+  {
     "date": "2026-03-02",
     "content": "Bees hum the map to hidden sweetness.",
     "note": "蜜蜂哼唱着通往隐秘甜美的地图。",
@@ -691,12 +698,5 @@
     "note": "不要梦想你的生活，而要实现你的梦想。",
     "translation": "新版每日一句",
     "picture": "https://staticedu-wps.cache.iciba.com/image/2ea438119d0090172a10bf7ae1bf89ec.png"
-  },
-  {
-    "date": "2025-11-22",
-    "content": "No snowflake ever falls in the wrong place.",
-    "note": "没有一片雪花会落在错误的地方。",
-    "translation": "新版每日一句",
-    "picture": "https://staticedu-wps.cache.iciba.com/image/c3f8addfe84646e26d569be4f25b897e.png"
   }
 ]
