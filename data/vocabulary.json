@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-06-30",
+    "content": "Stamps are tickets to distant lands.",
+    "note": "邮票是远方的门票。",
+    "translation": "新版每日一句",
+    "picture": "https://staticedu-wps-cache.iciba.com/image/383ab9c203d1274d55d310d08e76c385.png"
+  },
+  {
     "date": "2026-06-29",
     "content": "The radio crackles with hoarse memories.",
     "note": "收音机发出沙哑的回忆。",
@@ -691,12 +698,5 @@
     "note": "结束为新开始腾出空间。",
     "translation": "新版每日一句",
     "picture": "https://staticedu-wps-cache.iciba.com/image/9ab87cb07adfe8ca56de9841ab68c333.png"
-  },
-  {
-    "date": "2026-03-22",
-    "content": "Cherry blossoms blush before they bloom.",
-    "note": "樱花在盛开前先红了脸颊。",
-    "translation": "新版每日一句",
-    "picture": "https://staticedu-wps-cache.iciba.com/image/ed298ce0b39d835223b9a85a5d57f737.png"
   }
 ]
