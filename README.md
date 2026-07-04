@@ -3,26 +3,26 @@
 
 每天自动抓取每日一句，积累英语词汇。
 
-### 📅 今日打卡 (2026-07-03)
+### 📅 今日打卡 (2026-07-04)
 
-![Image](https://staticedu-wps-cache.iciba.com/image/31c67e54d6582f83729aa17c350d67e8.png)
+![Image](https://staticedu-wps-cache.iciba.com/image/8f51ac5d3260bf5eeb829a7144bf9b97.png)
 
-> **Light bulbs are like fruits that light up the night.**
+> **Silence is the most perfect expression of scorn.**
 > 
-> *灯泡像黑夜里结出的果实。*
+> *沉默是轻蔑最完美的表达。*
 
 ---
 
 ### 🗂️ 最近一周记录
 | 日期 | 英文 | 中文 |
 | :--- | :--- | :--- |
+| 2026-07-04 | Silence is the most perfect expression of scorn. | 沉默是轻蔑最完美的表达。 |
 | 2026-07-03 | Light bulbs are like fruits that light up the night. | 灯泡像黑夜里结出的果实。 |
 | 2026-07-02 | Every raindrop falls from the clouds above. | 每一滴雨，都从云层里落下来。 |
 | 2026-07-01 | Focus on the present, not the past or future. | 不念过往，不畏将来，专注当下。 |
 | 2026-06-30 | Stamps are tickets to distant lands. | 邮票是远方的门票。 |
 | 2026-06-29 | The radio crackles with hoarse memories. | 收音机发出沙哑的回忆。 |
 | 2026-06-28 | Screen light illuminates a face deep in focus. | 屏幕的光照亮了专注的脸。 |
-| 2026-06-27 | Great people do things before they are ready. | 伟大的人在准备好前就行动。 |
 
 
 ---
